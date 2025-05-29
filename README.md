@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charity Hansen
 ======================================================================================================================================
 
-ETL Engineer
+Data Migration Engineer
 ------------
 
 I'm an ETL engineer with a passion for learning, specializing in data integrations and system migrations. With experience managing large-scale data processes, I focus on optimizing data flow and ensuring seamless interoperability across platforms. Currently, I'm expanding my expertise in data engineering and cloud technologies, eager to contribute to innovative solutions in the tech industry.
