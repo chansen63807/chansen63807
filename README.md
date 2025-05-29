@@ -1,15 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charity Hansen
 ======================================================================================================================================
 
-Data Migration Engineer
+Data Migration
 ------------
 
-I'm an ETL engineer with a passion for learning, specializing in data integrations and system migrations. With experience managing large-scale data processes, I focus on optimizing data flow and ensuring seamless interoperability across platforms. Currently, I'm expanding my expertise in data engineering and cloud technologies, eager to contribute to innovative solutions in the tech industry.
+I’m a data integration and migration professional with a strong background in managing large-scale data processes across various industries, including membership management software and healthcare. I specialize in designing and implementing reliable data workflows to ensure smooth data movement and high data quality.
+
+I’m passionate about continuously learning new technologies and improving scalable solutions, currently focusing on cloud data warehousing with Snowflake and backend development skills like JavaScript for data processing tasks.
 
 * 🌍  I'm based in Durham, NC, USA
 * ✉️  You can contact me at [chansen63807@gmail.com](mailto:chansen63807@gmail.com)
-* 🧠  I'm learning Snowflake architecture and best practices to better leverage cloud data warehouses in ETL processes.
-* 🤝  I'm open to collaborating on projects
+* 🧠  Currently expanding expertise in cloud data platforms
+* 🤝   Open to collaborating on data integration, migration, and engineering projects
 
 ### Skills
 
